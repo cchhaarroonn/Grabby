@@ -7,13 +7,15 @@ This is yet another simple script that is currently written only in JS but will 
 JS:
 
 ```
-Put grabby.js in your website files and include it at bottom of your HTML file or you can put it in onload in body of your HTML so it will be executed automatically when HTML loads
+Put grabby.js in your website files and include it at bottom of your HTML file.
+You can even put it in onload in body of your HTML so it will be executed automatically when HTML loads!
 ```
 
 PHP: 
 
 ```
-Put grabby.php in your website files and you can even rename it to be index.php if you prefer it more and bascially you are done and you can enjoy.
+Put grabby.php in your website files and you are done.
+Or you can even rename it to be index.php if you prefer it more!
 ```
 
 ## Note 
